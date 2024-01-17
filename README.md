@@ -26,5 +26,11 @@
   * [Day 33-36: Function](#Function)
   * [Day 37-39: Lambda](#Lambda)
   * [Day 40: Generator](#Generator)
+  * [Day 41-42: Set Comprehension](#Set-Comprehension)
+  * [Day 43-44: list Comprehension](#list-Comprehension)
+  * [Day 45-47: Dict Comprehension](#Dict-Comprehension)
+  * [Day 48: Datetime and regex](#Datetime-and-regex)
+  * [Day 49: Regex and string](#Regex-and-string)
+  * [Day 50: Collections math and random](#Collections-math-and-random)
 ## Prerequisites
 Before diving into the exciting world of coding, ensuring you have a few prerequisites is essential. Whether you're a seasoned programmer or just starting out, you'll want to ensure you have access to the necessary tools. Fortunately, coding flexibility allows you to execute your code in different environments and choose what suits you best. Whether you prefer Jupyter Notebook, Google Colab, or Pycharm, having one of these platforms at your disposal will be crucial as you embark on your coding journey. So, before you begin, make sure you have your preferred environment set up, and you'll be well on your way to writing and running code with ease.
