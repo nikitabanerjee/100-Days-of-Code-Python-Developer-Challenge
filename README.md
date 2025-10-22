@@ -35,5 +35,6 @@
   * [Day 51: Random pickle and json](#Random-pickle-and-json)
   * [Day 52-57: Function](#Function)
   * [Day 58-60: Datetime](#Datetime)
+  * [Day 61-62: Os and Random](#Os-random)
 ## Prerequisites
 Before diving into the exciting world of coding, ensuring you have a few prerequisites is essential. Whether you're a seasoned programmer or just starting out, you'll want to ensure you have access to the necessary tools. Fortunately, coding flexibility allows you to execute your code in different environments and choose what suits you best. Whether you prefer Jupyter Notebook, Google Colab, or Pycharm, having one of these platforms at your disposal will be crucial as you embark on your coding journey. So, before you begin, make sure you have your preferred environment set up, and you'll be well on your way to writing and running code with ease.
